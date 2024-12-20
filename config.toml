@@ -1,0 +1,9 @@
+[user]
+name = "test_user"
+computer = "test_computer"
+
+[filesystem]
+path = "filesystem.zip"
+
+[log]
+path = "session_log.json"

@@ -1,0 +1,37 @@
+[
+    {
+        "user": "test_user",
+        "action": "ls",
+        "timestamp": "2024-11-30T09:43:31.119518"
+    },
+    {
+        "user": "test_user",
+        "action": "cd test_dir",
+        "timestamp": "2024-11-30T09:43:37.523354"
+    },
+    {
+        "user": "test_user",
+        "action": "touch 123.txt",
+        "timestamp": "2024-11-30T09:43:43.767761"
+    },
+    {
+        "user": "test_user",
+        "action": "ls",
+        "timestamp": "2024-11-30T09:43:44.876117"
+    },
+    {
+        "user": "test_user",
+        "action": "cd ..",
+        "timestamp": "2024-11-30T09:44:10.068788"
+    },
+    {
+        "user": "test_user",
+        "action": "clear",
+        "timestamp": "2024-11-30T09:44:14.853679"
+    },
+    {
+        "user": "test_user",
+        "action": "exit",
+        "timestamp": "2024-11-30T09:44:18.215482"
+    }
+]
